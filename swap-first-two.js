@@ -1,3 +1,4 @@
 module.exports = function(list){
-    return [];
+
+    return [list];
 }
