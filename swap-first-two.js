@@ -3,4 +3,5 @@ module.exports = function(list) {
   list[0] = list[1];
   list[1] = firstItem;
   return list;
+
 }
